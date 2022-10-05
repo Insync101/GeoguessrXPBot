@@ -1,4 +1,4 @@
-# Written by octin M8 D30 Y2022.
+# Written by corewave M8 D30 Y2022.
 
 from ast import Import
 from logging import exception
