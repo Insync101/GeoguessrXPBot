@@ -1,4 +1,4 @@
-# Written by octin M8 D30 Y2022. ( Make sure you have your _ncfa set in ncfa.json )
+# Written by corewave M8 D30 Y2022. ( Make sure you have your _ncfa set in ncfa.json )
 
 import random
 import json
